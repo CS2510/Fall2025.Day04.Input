@@ -1,3 +1,8 @@
+/**
+ * Base class for all scenes
+ * 
+ */
+
 class Scene {
     gameObjects = []
     start() {

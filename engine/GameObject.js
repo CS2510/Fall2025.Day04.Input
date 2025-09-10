@@ -1,3 +1,9 @@
+/**
+ * Base class for all objects in a scene.
+ * 
+ * See: https://docs.unity3d.com/ScriptReference/GameObject.html
+ */
+
 class GameObject {
     components = []
     start() {
